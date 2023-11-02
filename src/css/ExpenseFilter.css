@@ -1,0 +1,19 @@
+.filter{
+    display: flex;
+    justify-content:space-between
+}
+
+.h2{
+    color: #fff;
+}
+select{
+    height: 40px;
+    width: 75px;
+    margin-top: 20px;
+    font-weight: bold;
+    color: white;
+    background-color: #40005d;
+    border: 1px solid white;
+    padding: 0.5rem;
+    border-radius: 5px;
+}
